@@ -170,9 +170,9 @@ db.students.find({"age":{"$lt":22}})
  
  {Skill:{$in:['MongoDB']}}
  
-// java and mongodb
+// node and mongodb
 {Skill:{$in:['MongoDB','node']}}
 
-//student dont know mongodb
+//student who don't know mongodb
  {Skill:{$nin:['MongoDB']}}
  
