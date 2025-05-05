@@ -7,3 +7,5 @@
 
 
 # Get a deep  knowledge in connecting database through MongoDB
+
+# <--- Do practice with mondodb commands with mongosh Shell --->
