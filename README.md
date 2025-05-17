@@ -11,3 +11,5 @@
 # <--- Do practice with mondodb commands with mongosh Shell --->
 
 # <--* Added a Assignment_02 for  better practice *-->
+
+# <-- Done a Mongodb ICAE02 for get better performance is semester Exams -->
